@@ -1,0 +1,7 @@
+{
+    "name": "qiq/project",
+    "description": "The Qiq project.",
+    "type": "project",
+    "license": "proprietary",
+    "require": {}
+}
